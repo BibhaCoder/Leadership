@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibharajeev2011
+- 👋 Hi, I’m @bibha
 - 👀 I’m interested in software engineering and human leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
 - What are basic human psychological neds?
@@ -11,6 +11,6 @@
 -   S: Stability (All humans want stability of resources in their life)
 
 <!---
-bibharajeev2011/bibharajeev2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bibha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
