@@ -1,5 +1,5 @@
-5 basic human psychological neds
-================================
+5 basic human psychological needs
+=================================
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in software engineering and human leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
