@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in software engineering and human leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
-- What are basic human psychological neds?
+- What are basic human psychological needs?
 - I have coined a word "TEAMS" to describe 5 basic human psychological needs for humans across culture to thrive in any work environment:
 
 -   T: Teamwork (All humans want to be part of a group or a team)
