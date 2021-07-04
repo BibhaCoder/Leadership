@@ -1,4 +1,4 @@
-5 basic human psychological needs
+5 Basic Human Psychological Needs
 =================================
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in software engineering and human leadership.
