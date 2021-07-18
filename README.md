@@ -12,6 +12,8 @@
 -   M: Motivation (All humans want to be motivated and motivation comes from freedom and growth)
 -   S: Stability (All humans want stability of resources in their life)
 
+* Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
+
 <!---
 bibha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
