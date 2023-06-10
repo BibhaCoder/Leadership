@@ -12,12 +12,12 @@ Human leadership
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
 -   **S: Stability** (All humans want stability of resources in their life)
 
-Leadership excellence is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
+**Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
 
-- ***R*esults Oriented**: Being focused on results.
-- ***I*nternally driven**: Being driven by core internal values(**GRIT**).
-- ***S*erving others**: Being able to add values to others.
-- ***E*mbrace ideas**: Being open to external ideas.
+- **R: Results Oriented**: Being focused on results.
+- **I: Internally driven**: Being driven by core internal values(**GRIT**).
+- **S: Serving others**: Being able to add values to others.
+- **E: Embrace ideas**: Being open to external ideas.
 
 
 
