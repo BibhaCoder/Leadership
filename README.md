@@ -1,4 +1,4 @@
-5 Basic Human Psychological Needs
+Human leadership
 =================================
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in software engineering leadership and human leadership.
@@ -11,6 +11,16 @@
 -   **A: Appreciation** (All humans want to be appreciated, feel important and have significance in their life)
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
 -   **S: Stability** (All humans want stability of resources in their life)
+
+Leadership excellence is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
+
+- ***R*esults Oriented**: Being focused on results.
+- ***I*nternally driven**: Being driven by core internal values(**GRIT**).
+- ***S*erving others**: Being able to add values to others.
+- ***E*mbrace ideas**: Being open to external ideas.
+
+
+
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
