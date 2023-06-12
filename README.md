@@ -1,4 +1,4 @@
-Human leadership
+Human Leadership
 =================================
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in software engineering leadership and human leadership.
