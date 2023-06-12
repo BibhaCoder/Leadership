@@ -1,7 +1,7 @@
 Engineering Leadership
 =================================
 - 👋 Hi, I’m @bibharajeev
-- 👀 I’m interested in engineering leadership and human leadership.
+- 👀 I’m interested in engineering leadership and in general human leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
 - What are basic human psychological needs?
 - I have coined a word **TEAMS** to describe 5 basic human psychological needs for humans across culture to thrive in any work environment:
