@@ -24,8 +24,8 @@ To get best out of their team an effective leader does following(Keyword **ACTED
 - **A: Accountability**: Keeping everyone accountable for their actions in their team.
 - **C: Challenge**: Challenges their team to stretch and do their best.
 - **T: Talent**: Recognizes excellent talents and develop them.
-- **E: Empower**: Empower everyone in their team to do their best.
-- **D: Democratize**: Take key decisions through rigorous debate.
+- **E: Empower**: Empowers everyone in their team to do their best.
+- **D: Democratize**: Takes key decisions through rigorous debate.
 
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
