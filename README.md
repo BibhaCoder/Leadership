@@ -27,12 +27,6 @@ To get best out of their team an effective leader does following(Keyword **ACTED
 - **E: Empower**: Empowers everyone in their team to do their best.
 - **D: Democratize**: Takes key decisions through rigorous debates.
 
-True measure of a great leadership can be described by keyword **LIVE**:
-
-- **L: Liberate**: True leaders liberate their people.
-- **I: Influence**: True measure of Leadership is Influence.
-- **V: Victory**: True leadership makes their team victorious.
-- **E: Empower**: True leadership empowers their people.
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
