@@ -19,7 +19,7 @@ Engineering Leadership
 - **S: Serving others**: Being able to serve and add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
 
-2) To get best out of their team an effective leader does following(Keyword **ACTED**):
+To get best out of their team an effective leader does following(Keyword **ACTED**):
 
 - **A: Accountability**: Keeping everyone accountable for their actions in their team.
 - **C: Challenge**: Challenges their team to stretch and do their best.
