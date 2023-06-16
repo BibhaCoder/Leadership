@@ -12,7 +12,7 @@ Engineering Leadership
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
 -   **S: Stability** (All humans want stability of resources in their life)
 
-====
+===========
 
 Following are 2 most important concepts to master for achieving leadership excellence:
 
