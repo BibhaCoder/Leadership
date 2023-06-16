@@ -12,7 +12,11 @@ Engineering Leadership
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
 -   **S: Stability** (All humans want stability of resources in their life)
 
-1) **Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
+====
+
+Following are 2 most important concepts to master for achieving leadership excellence:
+
+ **Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
 
 - **R: Results Oriented**: Being focused on results.
 - **I: Internally driven**: Being driven by core internal values(**GRIT**).
