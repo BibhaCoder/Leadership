@@ -12,14 +12,14 @@ Engineering Leadership
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
 -   **S: Stability** (All humans want stability of resources in their life)
 
-**Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
+1) **Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
 
 - **R: Results Oriented**: Being focused on results.
 - **I: Internally driven**: Being driven by core internal values(**GRIT**).
 - **S: Serving others**: Being able to add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
 
-To get best out of their team an effective leader does following(Keyword **ACTED**):
+2) To get best out of their team an effective leader does following(Keyword **ACTED**):
 
 - **A: Accountability**: Keeping everyone accountable for their actions in their team.
 - **C: Challenge**: Challenges their team to stretch and do their best.
