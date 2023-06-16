@@ -16,7 +16,7 @@ Engineering Leadership
 
 - **R: Results Oriented**: Being focused on results.
 - **I: Internally driven**: Being driven by core internal values(**GRIT**).
-- **S: Serving others**: Being able to add values to others.
+- **S: Serving others**: Being able to serve and add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
 
 2) To get best out of their team an effective leader does following(Keyword **ACTED**):
