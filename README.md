@@ -1,4 +1,4 @@
-Engineering Leadership
+Leadership
 =================================
 - 👋 Hi, I’m @bibharajeev
 - 👀 I’m interested in engineering leadership and in general human leadership.
