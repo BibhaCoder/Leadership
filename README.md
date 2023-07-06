@@ -15,7 +15,7 @@ Leadership
  **Leadership excellence** is achieved when leaders are driven by following 4 key values(Keyword **RISE**):
 
 - **R: Results Oriented**: Being focused on results.
-- **I: Internally driven**: Being driven by core internal values(**GRIT**).
+- **I: Internally driven**: Being driven by our core internal values(**GRIT**).
 - **S: Serving others**: Being able to serve and add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
 
