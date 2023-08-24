@@ -34,7 +34,12 @@ True measure of leadership is measured by keyword **LIVE**:
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
 
-  
+Top level of leadership is achieved with **HBR**
+
+
+- **H: Humility**: Top level leaders are personally humble.
+- **FR: Fierce Resolve**: Top level leaders have fierce resolve for their organizations.
+- 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
 
