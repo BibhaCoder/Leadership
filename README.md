@@ -46,7 +46,6 @@ Positive change occurs when leaders **ACTED**.
 
 Leaders are measured by how they have **LIVE**.
 
-
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
 
