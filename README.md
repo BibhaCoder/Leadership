@@ -40,6 +40,13 @@ Top level of leadership is achieved with **HFR**
 - **H: Humility**: Top level leaders are personally humble.
 - **FR: Fierce Resolve**: Top level leaders have fierce resolve for their organizations.
 
+We become leader when we **RISE**.
+
+Positive change occurs when leaders **ACTED**.
+
+Leaders are measured by how they have **LIVE**.
+
+
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
 
