@@ -50,7 +50,7 @@ A team's emotional intelligence develops when the team develops **TIE**
 
 - **T: Trust**: Develop trust withinn team members.
 - **I: Identity**: Develop identity within team members.
-- **E: Efficacy**: Develop sense of efficacy to improve as a team.
+- **E: Efficacy**: Develop sense of efficacy to succeed as a team.
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
