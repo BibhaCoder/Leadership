@@ -46,6 +46,12 @@ Positive change occurs when leaders **ACTED**.
 
 Leaders are measured by how they have **LIVE**.
 
+A team's emotional intelligence develops when the team develops **TIE**
+
+- **T: Trust**: Develop trust withinn team members.
+- **I: Identity**: Develop identity within team members.
+- **E: Efficacy**: Develop sense of Efficacy to improve as a team.
+
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
 
