@@ -24,8 +24,6 @@ To get best out of their team an effective leader does following(Keyword **ACTED
 - **A: Accountability**: Keeping everyone accountable for their actions in their team.
 - **C: Challenge**: Challenges their team to stretch and do their best.
 - **T: Talent**: Recognizes and attracts excellent talents and develop them.
-- **E: Empower**: Empowers everyone in their team to do their best.
-- **D: Democratize**: Takes key decisions through rigorous debates.
 
 True measure of leadership is measured by keyword **LIVE**:
 
@@ -34,23 +32,24 @@ True measure of leadership is measured by keyword **LIVE**:
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
 
-Top level of leadership is achieved with **HFR**
+Top level of leadership is achieved with **HER**
 
 
 - **H: Humility**: Top level leaders are personally humble.
-- **FR: Fierce Resolve**: Top level leaders have fierce resolve for their organizations.
+- **ER: Extreme Resolve**: Top level leaders have fierce resolve for their organizations.
 
 We become leader when we **RISE**.
 
-Positive change occurs when leaders **ACTED**.
+Positive change occurs when leaders **ACT**.
 
 Leaders are measured by how they have **LIVE**.
 
-A team's emotional intelligence develops when the team develops **TIE**
+A team's emotional intelligence develops when the team develops **TIES**
 
 - **T: Trust**: Develop trust withinn team members.
 - **I: Identity**: Develop identity within team members.
 - **E: Efficacy**: Develop sense of efficacy to succeed as a team.
+- **S: Support**: Support each other.
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
