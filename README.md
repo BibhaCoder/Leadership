@@ -19,7 +19,7 @@ Leadership
 - **S: Serving others**: Being able to serve and add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
 
-To get best out of their team an effective leader does following(Keyword **ACTED**):
+To get best out of their team an effective leader does following(Keyword **ACT**):
 
 - **A: Accountability**: Keeping everyone accountable for their actions in their team.
 - **C: Challenge**: Challenges their team to stretch and do their best.
