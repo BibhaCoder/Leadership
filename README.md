@@ -27,7 +27,7 @@ To get best out of their team an effective leader does following(Keyword **ACT**
 
 True measure of leadership is measured by keyword **LIVE**:
 
-- **L: Liberate**: True leaders liberate their people.
+- **L: Learn continuously**: True leaders learn continuously to improve.
 - **I: Influence**: True measure of leadership is Influence.
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
@@ -43,6 +43,14 @@ We become leader when we **RISE**.
 Positive change occurs when leaders **ACT**.
 
 Leaders are measured by how they have **LIVE**.
+
+Leaders respect their **TEAMS** to acheive excellence.
+
+**T**: Teamwork for a shared common vision
+**E**: Empower everyone to do their best work
+**A**: Appreciate to challenge everyone to exceed expectations
+**M**: Motivate to encourage everyone
+**S**: Stability to model good behavior
 
 A team's emotional intelligence develops when the team develops **TIES**
 
