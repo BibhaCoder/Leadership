@@ -50,7 +50,7 @@ Leaders respect their **TEAMS** to acheive excellence.
 - **E**: Empower everyone to do their best work
 - **A**: Appreciate to challenge everyone to exceed expectations
 - **M**: Motivate to encourage excellent work
-- **S**: Stability to model excellent behavior
+- **S**: Stability to nourish the culture of innovation
 
 A team's emotional intelligence develops when the team develops **TIES**
 
