@@ -1,7 +1,7 @@
 Leadership
 =================================
 - 👋 Hi, I’m @bibharajeev
-- 👀 I’m interested in engineering leadership and in general human leadership.
+- 👀 I’m interested in engineering leadership and in general very intriguing topic of leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
 - What are basic human psychological needs?
 - I have coined a word **TEAMS** to describe 5 basic human psychological needs for humans across culture to thrive in any work environment:
@@ -28,7 +28,7 @@ To get best out of their team an effective leader does following(Keyword **ACT**
 True measure of leadership is measured by keyword **LIVE**:
 
 - **L: Learn continuously**: True leaders learn continuously to improve.
-- **I: Influence**: True measure of leadership is Influence.
+- **I: Influence emotionally**: True measure of leadership is positive emotional Influence.
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
 
