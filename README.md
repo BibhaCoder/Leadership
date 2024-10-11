@@ -46,11 +46,11 @@ Leaders are measured by how they have **LIVE**.
 
 Leaders respect their **TEAMS** to acheive excellence.
 
-- **T**: Teamwork for a shared common vision
-- **E**: Empower everyone to do their best work
-- **A**: Appreciate to challenge everyone to exceed expectations
-- **M**: Motivate to encourage excellent work
-- **S**: Stability to nourish the culture of innovation
+- **T**: **Teamwork** for a shared common vision
+- **E**: **Empower** everyone to do their best work
+- **A**: **Appreciate** to challenge everyone to exceed expectations
+- **M**: **Motivate** to encourage excellent work
+- **S**: **Stability** to nourish the culture of innovation
 
 A team's emotional intelligence develops when the team develops **TIES**
 
