@@ -46,7 +46,7 @@ Leaders are measured by how they have **LIVE**.
 
 Leaders respect their **TEAMS** to acheive excellence.
 
-- **T**: **Teamwork** for a shared common vision
+- **T**: **Teamwork(persuasion)** for a shared common vision
 - **E**: **Empower** everyone to do their best work
 - **A**: **Appreciate** to challenge everyone to exceed expectations
 - **M**: **Motivate** to encourage excellent work
