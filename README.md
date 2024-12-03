@@ -14,7 +14,7 @@ Leadership
 
  **Leadership excellence** is achieved when leaders are driven by following key values(Keyword **RISE**):
 
-- **R: Results Oriented**: Being focused on results.
+- **R: Resonant and Results Oriented**: Being resonant and focused on results.
 - **I: Internally driven**: Being driven by our core internal values(**GRIT**).
 - **S: Serving others**: Being able to serve and add values to others.
 - **E: Embrace ideas**: Being open to external ideas.
@@ -27,7 +27,7 @@ To get best out of their team an effective leader does following(Keyword **ACT**
 
 True measure of leadership is measured by keyword **LIVE**:
 
-- **L: Learn continuously**: True leaders learn continuously to improve.
+- **L: Learn and improve continuously**: True leaders learn continuously to improve.
 - **I: Influence emotionally**: True measure of leadership is positive emotional Influence.
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
