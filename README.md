@@ -32,7 +32,7 @@ True measure of leadership is measured by keyword **LIVE**:
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
 
-Top level of leadership is achieved with **HER**
+Excellence of leadership is achieved with **HER**
 
 
 - **H: Humility**: Top level leaders are personally humble.
