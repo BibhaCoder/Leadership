@@ -27,7 +27,7 @@ To get best out of their team an effective leader does following(Keyword **ACT**
 
 True measure of leadership is measured by keyword **LIVE**:
 
-- **L: Learn and improve continuously**: True leaders learn continuously to improve.
+- **L: Learn, improve and deliver continuously (LID infinite loop)**: True leaders learn continuously to improve and deliver results.
 - **I: Influence emotionally**: True measure of leadership is positive emotional Influence.
 - **V: Victory**: True leaders make their people victorious.
 - **E: Empower**: True leaders Empower their people.
