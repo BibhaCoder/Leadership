@@ -63,19 +63,19 @@ A team's emotional intelligence develops when the team develops **TIES**
 
 Investors are AWARE
 
-**A: Appreciativeness (Gratitude)**
-**W: Wise Eating**
-**A: Active Mindfullness**
-**R: Right Intelligence (Equilibrium between emotional and rational intelligence)**
-**E: Exercise Regularly**
+- **A: Appreciativeness (Gratitude)**
+- **W: Wise Eating**
+- **A: Active Mindfullness**
+- **R: Right Intelligence (Equilibrium between emotional and rational intelligence)**
+- **E: Exercise Regularly**
 
 Investors stay ALIVE:
 
-**A: Affluence (Wealth)**
-**L: Longevity (Long Life)**
-**I: Intelligence (Wisdom)**
-**V: Vigor (Health)**
-**E: Energetic (Vitality)**
+- **A: Affluence (Wealth)**
+- **L: Longevity (Long Life)**
+- **I: Intelligence (Wisdom)**
+- **V: Vigor (Health)**
+- **E: Energetic (Vitality)**
 
 
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
