@@ -59,6 +59,51 @@ A team's emotional intelligence develops when the team develops **TIES**
 - **E: Efficacy**: Develop sense of efficacy to succeed as a team.
 - **S: Support**: Support each other.
 
+**Leading:
+Leading = Leadership + Investing**
+
+**Leadership**:
+
+Leaders RISE to ACT and LIVE to respect HER TEAMS to develop TIES.
+
+leaders RISE
+
+R: Resonant and results oriented
+I: Internally Driven by our Core Values
+S: Serving Others
+E: Embracing Ideas
+leaders ACT
+
+A: Accountability
+C: Challenge
+T: Talent
+leaders LIVE
+
+L: Learn, improve and deliver results continuously (LID cycle)
+I: Influence emotionally
+V: Victory
+E: Empower
+leaders respect HER
+
+H: Humility
+E: Extreme
+R: Resolve
+leaders build TEAMS
+
+T: Teamwork(persuasion) for a shared common vision
+E: Empower their team to do their best work
+A: Appreciate to challenge their team to exceed expectations
+M: Motivate to encourage excellence
+S: Stability to nourish the culture of innovation
+leaders develop TIES
+
+T: Trust
+I: Identity
+E: Efficacy
+S: Support
+Investing:
+Investors are AWARE to stay ALIVE to find LOGIC and develop GRIT to use AI when art of signal and science of safety both are in equilibrium.
+
 Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
 ------------
 
