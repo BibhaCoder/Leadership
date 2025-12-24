@@ -152,7 +152,7 @@ Instead of becoming a **crazulator** (**craz**y spec**ulator**) and participatin
 
 
 
-Copyright (c) 2013 BibhaCoder(https://github.com/BibhaCoder). All rights reserved.
+Copyright (c) 2013 BibhaCoder(https://acceleratedindexing.com). All rights reserved.
 ------------
 
 <!---
