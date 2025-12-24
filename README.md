@@ -20,7 +20,7 @@ Accelerated Indexing
 
 **AAPIS** = **A**mbika **A**nalytics **P**owered **I**nvesting **S**trategy (**AAPIS**)(AKA **AI** = **A**ccelerated **I**ndexing).
 
-**Core Strategic Principle: Low cost, solid performing and optimal risk based accelerated disciplined investing strategy to reduce equity ownership inequality and make the world a better place.**
+**Core Strategic Principle: Disciplined, low cost, solid performing and optimal risk based accelerated investing strategy to reduce equity ownership inequality and make the world a better place.**
 
 Over the past century the U.S. equity market has provided the best CAGR for investors. The U.S. equity market has outperformed all other types of available investments over the past century but the ownership of the U.S. equities market is not very equal.
 
