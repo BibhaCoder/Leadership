@@ -1,3 +1,6 @@
+Copyright (c) 2017 BibhaCoder(https://acceleratedindexing.com/). All rights reserved.
+-----
+
 Leading = Leadership + Investing
 =================================
 - 👋 Hi, I’m @bibhacoder
@@ -10,77 +13,10 @@ Leading = Leadership + Investing
 -   **E: Equality** (All humans want to be treated with equality and fairness)
 -   **A: Appreciation** (All humans want to be appreciated, feel important and have significance in their life)
 -   **M: Motivation** (All humans want to be motivated and motivation comes from freedom and growth)
--   **S: Stability** (All humans want stability of resources in their life)
-
- **Leadership excellence** is achieved when leaders are driven by following key values(Keyword **RISE**):
-
-- **R: Resonant and Results Oriented**: Being resonant and focused on results.
-- **I: Internally driven**: Being driven by our core internal values(**GRIT**).
-- **S: Serving others**: Being able to serve and add values to others.
-- **E: Embrace ideas**: Being open to external ideas.
-
-To get best out of their team an effective leader does following(Keyword **ACT**):
-
-- **A: Accountability**: Keeping everyone accountable for their actions in their team.
-- **C: Challenge**: Challenges their team to stretch and do their best.
-- **T: Talent**: Recognizes and attracts excellent talents and develop them.
-
-True measure of leadership is measured by keyword **LIVE**:
-
-- **L: Learn, improve and deliver continuously (LID infinite loop)**: True leaders learn continuously to improve and deliver results.
-- **I: Influence emotionally**: True measure of leadership is positive emotional Influence.
-- **V: Victory**: True leaders make their people victorious.
-- **E: Empower**: True leaders Empower their people.
-
-Excellence of leadership is achieved with **HER**
-
-
-- **H: Humility**: Top level leaders are personally humble.
-- **ER: Extreme Resolve**: Top level leaders have fierce resolve for their organizations.
-
-We become leader when we **RISE**.
-
-Positive change occurs when leaders **ACT**.
-
-Leaders are measured by how they have **LIVE**.
-
-Leaders respect their **TEAMS** to acheive excellence.
-
-- **T**: **Teamwork(persuasion)** for a shared common vision
-- **E**: **Empower** everyone to do their best work
-- **A**: **Appreciate** to challenge everyone to exceed expectations
-- **M**: **Motivate** to encourage excellent work
-- **S**: **Stability** to nourish the culture of innovation
-
-A team's emotional intelligence develops when the team develops **TIES**
-
-- **T: Trust**: Develop trust withinn team members.
-- **I: Identity**: Develop identity within team members.
-- **E: Efficacy**: Develop sense of efficacy to succeed as a team.
-- **S: Support**: Support each other.
-- 
-**Investors are AWARE to stay ALIVE to find LOGIC and develop GRIT to use AI when art of signal and science of safety both are in equilibrium**.
-
-Investors are AWARE
-
-- **A: Appreciativeness (Gratitude)**
-- **W: Wise Eating**
-- **A: Active Mindfullness**
-- **R: Right Intelligence (Equilibrium between emotional and rational intelligence)**
-- **E: Exercise Regularly**
-
-Investors stay ALIVE:
-
-- **A: Affluence (Wealth)**
-- **L: Longevity (Long Life)**
-- **I: Intelligence (Wisdom)**
-- **V: Vigor (Health)**
-- **E: Energetic (Vitality)**
+-   **S: Stability** (All humans want stability of resources in their life.
+  
 Accelerated Indexing
 ====================
-
-Copyright (c) 2017 BibhaCoder(https://acceleratedindexing.com/). All rights reserved.
----------------------------------------------------------------------------------
 
 **AAPIS** = **A**mbika **A**nalytics **P**owered **I**nvesting **S**trategy (**AAPIS**)(AKA **AI** = **A**ccelerated **I**ndexing).
 
