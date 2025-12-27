@@ -1,5 +1,6 @@
-Copyright (c) 2017 BibhaCoder(https://acceleratedindexing.com/). All rights reserved.
------
+Copyright (c) 2017-2025 Ambika Analytics LLC (https://acceleratedindexing.com/). All rights reserved.
+---------------------------------------------------------------------------------
+
 
 Leading = Leadership + Investing
 =================================
@@ -152,8 +153,8 @@ Instead of becoming a **crazulator** (**craz**y spec**ulator**) and participatin
 
 
 
-Copyright (c) 2013 BibhaCoder(https://acceleratedindexing.com). All rights reserved.
-------------
+Copyright (c) 2017-2025 Ambika Analytics LLC (https://acceleratedindexing.com/). All rights reserved.
+---------------------------------------------------------------------------------
 
 <!---
 bibha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
