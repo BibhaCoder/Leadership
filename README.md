@@ -142,11 +142,11 @@ Investors are **AWARE** to stay **ALIVE** to find **LOGIC** and develop **GRIT**
 
 *investors use AI* when **science of SAFER** is in equilibrium
 
-- **S**: **Stable soil (Kshiti)** element: S&P 500 index above its 50 days or 200 days SMA.
-- **A**: **Aquatic water (Jal)** element: S&P 500 index forming early and clean 3 consecutive solid green Heikin-Ashi candles with new highs.
-- **F**: **Fiery fire (Pawak)** element: S&P 500 MACD (12, 26, 9) early in uptrend or re-igniting the uptrend.
-- **E**: **Expansive space (Gagan)** element: VIX index < 20 or VIX in convergence when between 20 to 30 and never > 30.
-- **R**: **Rising wind(Sameer)** element: Wilder's RSI(14) < 70.
+- **S**: **Stable soil (Kshiti)** element.
+- **A**: **Aquatic water (Jal)** element.
+- **F**: **Fiery fire (Pawak)** element.
+- **E**: **Expansive space (Gagan)** element.
+- **R**: **Rising wind(Sameer)** element.
 
 Instead of becoming a **crazulator** (**craz**y spec**ulator**) and participating in **crazulation** (**craz**y spec**ulation**) a humble investor employs **LOGIC** for CORE portfolio and **AAPIS** for ALPHA portfolios to achieve sustainable market beating returns in long term.
 
