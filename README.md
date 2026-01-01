@@ -4,7 +4,7 @@ Copyright (c) 2017-2025 Ambika Analytics LLC (https://acceleratedindexing.com/).
 
 Leading = Leadership + Investing
 =================================
-- 👋 Hi, I’m @bibhacoder
+- Ambika Analytics LLC
 - 👀 I’m interested in engineering leadership and in general very intriguing topic of leadership.
 - We all are aware of basic human physiological needs (e.g. food, shelter, clothing, water, air, sleep etc.) but is it enough for a human to thrive?
 - What are basic human psychological needs?
@@ -146,7 +146,7 @@ Investors are **AWARE** to stay **ALIVE** to find **LOGIC** and develop **GRIT**
 - **A**: **Aquatic water (Jal)** element.
 - **F**: **Fiery fire (Pawak)** element.
 - **E**: **Expansive space (Gagan)** element.
-- **R**: **Rising wind(Sameer)** element.
+- **R**: **Rising wind (Sameer)** element.
 
 Instead of becoming a **crazulator** (**craz**y spec**ulator**) and participating in **crazulation** (**craz**y spec**ulation**) a humble investor employs **LOGIC** for CORE portfolio and **AAPIS** for ALPHA portfolios to achieve sustainable market beating returns in long term.
 
